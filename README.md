@@ -1,0 +1,2 @@
+# Codewars
+Personal Codewars solutions
