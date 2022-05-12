@@ -12,16 +12,6 @@ Examples:
 
 
 
-
-
-
-
-
-
-
-
-
-
 /*
 Test Examples:
 
